@@ -47,6 +47,12 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "GAMZE KANDARA",
+      "image": "https://www.wikihow.com/images/thumb/6/6d/Get-the-URL-for-Pictures-Step-4-Version-6.jpg/aid597183-v4-728px-Get-the-URL-for-Pictures-Step-4-Version-6.jpg",
+      "likes": 0,
+      "id": 9
     }
   ]
 }
